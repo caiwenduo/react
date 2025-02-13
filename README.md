@@ -1,3 +1,48 @@
+已知a为2，b为1.5，函数y=\sqrt{a^2+b^2} ，求Y值
+<think>
+首先，已知a = 2，b = 1.5。
+
+计算a的平方：\( a^2 = 2^2 = 4 \)。
+
+计算b的平方：\( b^2 = (1.5)^2 = 2.25 \)。
+
+将a²和b²相加：\( a^2 + b^2 = 4 + 2.25 = 6.25 \)。
+
+对结果开平方得到Y的值：\( Y = \sqrt{6.25} = 2.5 \)。
+</think>
+
+已知：
+- \( a = 2 \)
+- \( b = 1.5 \)
+
+要求计算：
+\[ y = \sqrt{a^2 + b^2} \]
+
+**解题步骤：**
+
+1. **计算 \( a^2 \) 和 \( b^2 \)：**
+   \[
+   a^2 = (2)^2 = 4
+   \]
+   \[
+   b^2 = (1.5)^2 = 2.25
+   \]
+
+2. **将 \( a^2 \) 和 \( b^2 \) 相加：**
+   \[
+   a^2 + b^2 = 4 + 2.25 = 6.25
+   \]
+
+3. **对结果开平方：**
+   \[
+   y = \sqrt{6.25} = 2.5
+   \]
+
+**最终答案：**
+\[
+\boxed{2.5}
+\]
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
